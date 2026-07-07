@@ -1,0 +1,2044 @@
+[
+    {
+        "id": 1,
+        "category": "Login",
+        "priority": 1,
+        "question": "Bagaimana cara mengatasi lupa password SIMRS?",
+        "keywords": [
+            "lupa password",
+            "reset password",
+            "password simrs"
+        ],
+        "answer": "Silakan menghubungi Admin SIMRS untuk melakukan reset password. Demi keamanan, password tidak dapat direset secara mandiri.",
+        "source": "SOP-IT-001",
+        "related": [
+            "Login",
+            "Akun SIMRS",
+            "Reset Password"
+        ],
+        "tags": [
+            "login",
+            "akun",
+            "password",
+            "simrs"
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Login",
+        "priority": 1,
+        "question": "Kenapa saya tidak bisa login ke SIMRS?",
+        "keywords": [
+            "login gagal",
+            "tidak bisa login",
+            "gagal login"
+        ],
+        "answer": "Pastikan username dan password benar, Caps Lock tidak aktif, serta komputer terhubung ke jaringan rumah sakit.",
+        "source": "SOP-IT-002",
+        "related": [
+            "Login",
+            "Jaringan",
+            "Akun SIMRS"
+        ],
+        "tags": [
+            "login",
+            "gagal login",
+            "akun",
+            "simrs"
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Login",
+        "priority": 1,
+        "question": "Apa yang harus dilakukan jika akun SIMRS terkunci?",
+        "keywords": [
+            "akun terkunci",
+            "akun terblokir",
+            "account locked"
+        ],
+        "answer": "Akun otomatis terkunci setelah beberapa kali salah memasukkan password. Hubungi Admin SIMRS untuk membuka kembali akses akun.",
+        "source": "SOP-IT-003",
+        "related": [
+            "Login",
+            "Akun SIMRS",
+            "User Management"
+        ],
+        "tags": [
+            "login",
+            "akun terkunci",
+            "keamanan",
+            "simrs"
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Login",
+        "priority": 1,
+        "question": "Kenapa SIMRS otomatis logout sendiri?",
+        "keywords": [
+            "sesi login habis",
+            "session expired",
+            "otomatis logout"
+        ],
+        "answer": "Sistem akan otomatis logout apabila tidak ada aktivitas dalam jangka waktu tertentu demi keamanan data pasien. Silakan login kembali.",
+        "source": "SOP-IT-004",
+        "related": [
+            "Login",
+            "Keamanan Data",
+            "Sesi Aktif"
+        ],
+        "tags": [
+            "login",
+            "session",
+            "keamanan",
+            "simrs"
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Login",
+        "priority": 1,
+        "question": "Bagaimana cara mengganti password SIMRS?",
+        "keywords": [
+            "ganti password",
+            "ubah password"
+        ],
+        "answer": "Password dapat diubah melalui menu Pengaturan Akun setelah login, atau melalui Admin SIMRS apabila menu tersebut tidak tersedia.",
+        "source": "SOP-IT-005",
+        "related": [
+            "Login",
+            "Akun SIMRS",
+            "Reset Password"
+        ],
+        "tags": [
+            "login",
+            "ganti password",
+            "akun",
+            "simrs"
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Login",
+        "priority": 1,
+        "question": "Apakah akun SIMRS bisa digunakan di dua komputer sekaligus?",
+        "keywords": [
+            "login di dua komputer",
+            "akun dipakai bersamaan",
+            "multi login"
+        ],
+        "answer": "Satu akun SIMRS hanya dapat digunakan pada satu perangkat dalam waktu bersamaan untuk menjaga keamanan dan validitas data.",
+        "source": "SOP-IT-006",
+        "related": [
+            "Login",
+            "Keamanan Data",
+            "Akun SIMRS"
+        ],
+        "tags": [
+            "login",
+            "multi login",
+            "keamanan",
+            "simrs"
+        ]
+    },
+    {
+        "id": 7,
+        "category": "Login",
+        "priority": 1,
+        "question": "Kenapa halaman login SIMRS blank atau tidak muncul?",
+        "keywords": [
+            "halaman login blank",
+            "layar login putih",
+            "login tidak muncul"
+        ],
+        "answer": "Coba refresh browser (Ctrl+F5), bersihkan cache/cookies, atau gunakan browser yang direkomendasikan (Google Chrome versi terbaru).",
+        "source": "SOP-IT-007",
+        "related": [
+            "Login",
+            "Browser",
+            "Komputer"
+        ],
+        "tags": [
+            "login",
+            "browser",
+            "cache",
+            "simrs"
+        ]
+    },
+    {
+        "id": 8,
+        "category": "User Management",
+        "priority": 2,
+        "question": "Bagaimana cara mengajukan pembuatan akun baru SIMRS?",
+        "keywords": [
+            "akun baru",
+            "tambah user",
+            "buat user"
+        ],
+        "answer": "Permintaan akun baru dilakukan melalui Admin SIMRS sesuai prosedur rumah sakit, disertai surat pengantar dari unit/instalasi terkait.",
+        "source": "SOP-IT-101",
+        "related": [
+            "User Management",
+            "Akun SIMRS",
+            "Login"
+        ],
+        "tags": [
+            "user management",
+            "akun baru",
+            "simrs"
+        ]
+    },
+    {
+        "id": 9,
+        "category": "User Management",
+        "priority": 2,
+        "question": "Bagaimana prosedur menonaktifkan akun pegawai yang resign?",
+        "keywords": [
+            "hapus akun",
+            "nonaktifkan user",
+            "user resign"
+        ],
+        "answer": "Penonaktifan akun pegawai yang mutasi atau resign dilakukan oleh Admin SIMRS berdasarkan surat keputusan dari bagian kepegawaian.",
+        "source": "SOP-IT-102",
+        "related": [
+            "User Management",
+            "Akun SIMRS",
+            "SOP IT"
+        ],
+        "tags": [
+            "user management",
+            "nonaktif akun",
+            "kepegawaian",
+            "simrs"
+        ]
+    },
+    {
+        "id": 10,
+        "category": "User Management",
+        "priority": 2,
+        "question": "Bagaimana cara mengubah hak akses (role) user SIMRS?",
+        "keywords": [
+            "ubah hak akses",
+            "role user",
+            "permission user"
+        ],
+        "answer": "Perubahan hak akses (role) user memerlukan persetujuan Kepala Instalasi/Unit dan diproses oleh Admin SIMRS.",
+        "source": "SOP-IT-103",
+        "related": [
+            "User Management",
+            "Akun SIMRS",
+            "SOP IT"
+        ],
+        "tags": [
+            "user management",
+            "hak akses",
+            "role",
+            "simrs"
+        ]
+    },
+    {
+        "id": 11,
+        "category": "User Management",
+        "priority": 2,
+        "question": "Bagaimana jika pegawai pindah unit kerja, apakah akun SIMRS perlu diubah?",
+        "keywords": [
+            "user pindah unit",
+            "mutasi user",
+            "pindah poli"
+        ],
+        "answer": "Jika pegawai pindah unit kerja, ajukan perubahan penempatan akun ke Admin SIMRS agar hak akses menyesuaikan unit baru.",
+        "source": "SOP-IT-104",
+        "related": [
+            "User Management",
+            "Akun SIMRS",
+            "Login"
+        ],
+        "tags": [
+            "user management",
+            "mutasi",
+            "unit kerja",
+            "simrs"
+        ]
+    },
+    {
+        "id": 12,
+        "category": "User Management",
+        "priority": 2,
+        "question": "Bagaimana cara memperbaiki data profil user yang salah di SIMRS?",
+        "keywords": [
+            "data user salah",
+            "nama pegawai salah",
+            "profil user salah"
+        ],
+        "answer": "Kesalahan data profil user (nama, unit, jabatan) dapat dilaporkan ke Admin SIMRS untuk dikoreksi.",
+        "source": "SOP-IT-105",
+        "related": [
+            "User Management",
+            "Akun SIMRS",
+            "FAQ"
+        ],
+        "tags": [
+            "user management",
+            "data user",
+            "profil",
+            "simrs"
+        ]
+    },
+    {
+        "id": 13,
+        "category": "User Management",
+        "priority": 2,
+        "question": "Bagaimana cara melihat riwayat aktivitas user di SIMRS?",
+        "keywords": [
+            "riwayat aktivitas user",
+            "log aktivitas user",
+            "audit trail"
+        ],
+        "answer": "Riwayat aktivitas user dapat ditelusuri melalui menu Log Aktivitas oleh Admin SIMRS untuk keperluan audit.",
+        "source": "SOP-IT-106",
+        "related": [
+            "User Management",
+            "Keamanan Data",
+            "SOP IT"
+        ],
+        "tags": [
+            "user management",
+            "audit",
+            "log aktivitas",
+            "simrs"
+        ]
+    },
+    {
+        "id": 14,
+        "category": "Rawat Jalan",
+        "priority": 2,
+        "question": "Bagaimana cara mendaftarkan pasien rawat jalan di SIMRS?",
+        "keywords": [
+            "pendaftaran pasien rawat jalan",
+            "daftar poli",
+            "registrasi pasien"
+        ],
+        "answer": "Pendaftaran pasien rawat jalan dilakukan melalui menu Registrasi dengan menginput NIK/nomor RM, kemudian pilih poli tujuan.",
+        "source": "SIMRS-RJ-001",
+        "related": [
+            "Rawat Jalan",
+            "Registrasi Pasien",
+            "Rekam Medis"
+        ],
+        "tags": [
+            "rawat jalan",
+            "registrasi",
+            "pendaftaran",
+            "simrs"
+        ]
+    },
+    {
+        "id": 15,
+        "category": "Rawat Jalan",
+        "priority": 2,
+        "question": "Kenapa nomor antrian poli tidak muncul di layar?",
+        "keywords": [
+            "antrian poli tidak muncul",
+            "nomor antrian error",
+            "antrian tidak jalan"
+        ],
+        "answer": "Periksa koneksi jaringan pada perangkat antrian, restart aplikasi antrian, dan pastikan server antrian dalam kondisi aktif.",
+        "source": "SIMRS-RJ-002",
+        "related": [
+            "Rawat Jalan",
+            "Jaringan",
+            "Komputer"
+        ],
+        "tags": [
+            "rawat jalan",
+            "antrian",
+            "poli",
+            "simrs"
+        ]
+    },
+    {
+        "id": 16,
+        "category": "Rawat Jalan",
+        "priority": 2,
+        "question": "Kenapa data rekam medis pasien tidak ditemukan di sistem?",
+        "keywords": [
+            "rekam medis tidak ditemukan",
+            "nomor rm tidak terbaca",
+            "data pasien tidak ada"
+        ],
+        "answer": "Pastikan nomor RM/NIK diinput dengan benar. Jika pasien baru, lakukan pendaftaran pasien baru terlebih dahulu di loket.",
+        "source": "SIMRS-RJ-003",
+        "related": [
+            "Rawat Jalan",
+            "Rekam Medis",
+            "Registrasi Pasien"
+        ],
+        "tags": [
+            "rawat jalan",
+            "rekam medis",
+            "nomor rm",
+            "simrs"
+        ]
+    },
+    {
+        "id": 17,
+        "category": "Rawat Jalan",
+        "priority": 2,
+        "question": "Kenapa input diagnosa ICD-10 gagal tersimpan?",
+        "keywords": [
+            "input diagnosa gagal",
+            "icd 10 tidak muncul",
+            "diagnosa tidak tersimpan"
+        ],
+        "answer": "Pastikan kode ICD-10 diketik dengan benar dan koneksi jaringan stabil, lalu simpan kembali data pemeriksaan.",
+        "source": "SIMRS-RJ-004",
+        "related": [
+            "Rawat Jalan",
+            "Rekam Medis",
+            "Jaringan"
+        ],
+        "tags": [
+            "rawat jalan",
+            "diagnosa",
+            "icd-10",
+            "simrs"
+        ]
+    },
+    {
+        "id": 18,
+        "category": "Rawat Jalan",
+        "priority": 2,
+        "question": "Bagaimana cara mencetak surat rujukan pasien?",
+        "keywords": [
+            "cetak surat rujukan",
+            "rujukan tidak bisa dicetak"
+        ],
+        "answer": "Pastikan data rujukan telah lengkap diisi oleh dokter, kemudian gunakan menu Cetak Rujukan pada layar pasien.",
+        "source": "SIMRS-RJ-005",
+        "related": [
+            "Rawat Jalan",
+            "BPJS",
+            "Printer"
+        ],
+        "tags": [
+            "rawat jalan",
+            "rujukan",
+            "cetak",
+            "simrs"
+        ]
+    },
+    {
+        "id": 19,
+        "category": "Rawat Jalan",
+        "priority": 2,
+        "question": "Kenapa jadwal dokter tidak muncul di SIMRS?",
+        "keywords": [
+            "jadwal dokter tidak muncul",
+            "dokter poli kosong"
+        ],
+        "answer": "Periksa pengaturan jadwal praktik dokter pada menu Master Jadwal Dokter, atau hubungi Admin SIMRS jika data tidak sesuai.",
+        "source": "SIMRS-RJ-006",
+        "related": [
+            "Rawat Jalan",
+            "FAQ",
+            "SOP IT"
+        ],
+        "tags": [
+            "rawat jalan",
+            "jadwal dokter",
+            "poli",
+            "simrs"
+        ]
+    },
+    {
+        "id": 20,
+        "category": "Rawat Jalan",
+        "priority": 2,
+        "question": "Bagaimana cara membatalkan kunjungan pasien rawat jalan?",
+        "keywords": [
+            "pembatalan kunjungan",
+            "batal periksa",
+            "cancel kunjungan"
+        ],
+        "answer": "Pembatalan kunjungan pasien rawat jalan hanya dapat dilakukan oleh petugas loket/Admin SIMRS sebelum status kunjungan selesai.",
+        "source": "SIMRS-RJ-007",
+        "related": [
+            "Rawat Jalan",
+            "Registrasi Pasien",
+            "SOP IT"
+        ],
+        "tags": [
+            "rawat jalan",
+            "batal kunjungan",
+            "registrasi",
+            "simrs"
+        ]
+    },
+    {
+        "id": 21,
+        "category": "Rawat Jalan",
+        "priority": 2,
+        "question": "Kenapa e-resep dari dokter tidak masuk ke Farmasi?",
+        "keywords": [
+            "resep tidak terkirim ke farmasi",
+            "e-resep gagal",
+            "resep tidak muncul di farmasi"
+        ],
+        "answer": "Pastikan resep telah disimpan oleh dokter dan koneksi jaringan stabil. Cek kembali di menu Resep pada aplikasi Farmasi.",
+        "source": "SIMRS-RJ-008",
+        "related": [
+            "Rawat Jalan",
+            "Farmasi",
+            "Jaringan"
+        ],
+        "tags": [
+            "rawat jalan",
+            "e-resep",
+            "farmasi",
+            "simrs"
+        ]
+    },
+    {
+        "id": 22,
+        "category": "Rawat Inap",
+        "priority": 2,
+        "question": "Bagaimana cara mendaftarkan pasien rawat inap (admisi)?",
+        "keywords": [
+            "pendaftaran rawat inap",
+            "admisi pasien",
+            "input pasien masuk"
+        ],
+        "answer": "Pendaftaran rawat inap dilakukan melalui menu Admisi dengan memilih ruangan dan kelas perawatan sesuai ketersediaan bed.",
+        "source": "SIMRS-RI-001",
+        "related": [
+            "Rawat Inap",
+            "Manajemen Bed",
+            "Registrasi Pasien"
+        ],
+        "tags": [
+            "rawat inap",
+            "admisi",
+            "pendaftaran",
+            "simrs"
+        ]
+    },
+    {
+        "id": 23,
+        "category": "Rawat Inap",
+        "priority": 2,
+        "question": "Kenapa status ketersediaan bed rawat inap tidak update?",
+        "keywords": [
+            "status bed tidak update",
+            "ketersediaan bed salah",
+            "bed kosong tapi terisi"
+        ],
+        "answer": "Periksa status bed pada menu Manajemen Bed dan lakukan sinkronisasi data, atau laporkan ke Admin SIMRS bila selisih data berlanjut.",
+        "source": "SIMRS-RI-002",
+        "related": [
+            "Rawat Inap",
+            "Manajemen Bed",
+            "SOP IT"
+        ],
+        "tags": [
+            "rawat inap",
+            "bed",
+            "manajemen bed",
+            "simrs"
+        ]
+    },
+    {
+        "id": 24,
+        "category": "Rawat Inap",
+        "priority": 2,
+        "question": "Bagaimana cara memindahkan pasien rawat inap ke ruangan lain?",
+        "keywords": [
+            "pindah ruangan pasien",
+            "transfer pasien",
+            "mutasi ruangan"
+        ],
+        "answer": "Perpindahan ruangan pasien diinput melalui menu Mutasi Pasien agar data tagihan dan riwayat perawatan tetap akurat.",
+        "source": "SIMRS-RI-003",
+        "related": [
+            "Rawat Inap",
+            "Manajemen Bed",
+            "Billing"
+        ],
+        "tags": [
+            "rawat inap",
+            "mutasi ruangan",
+            "transfer pasien",
+            "simrs"
+        ]
+    },
+    {
+        "id": 25,
+        "category": "Rawat Inap",
+        "priority": 2,
+        "question": "Bagaimana cara memproses kepulangan pasien (discharge) di SIMRS?",
+        "keywords": [
+            "pasien pulang",
+            "discharge pasien",
+            "input kepulangan"
+        ],
+        "answer": "Proses kepulangan pasien dilakukan melalui menu Discharge setelah seluruh tindakan dan tagihan diverifikasi lengkap.",
+        "source": "SIMRS-RI-004",
+        "related": [
+            "Rawat Inap",
+            "Billing",
+            "Rekam Medis"
+        ],
+        "tags": [
+            "rawat inap",
+            "discharge",
+            "pasien pulang",
+            "simrs"
+        ]
+    },
+    {
+        "id": 26,
+        "category": "Rawat Inap",
+        "priority": 2,
+        "question": "Kenapa tagihan (billing) rawat inap tidak sesuai?",
+        "keywords": [
+            "billing rawat inap tidak sesuai",
+            "tagihan rawat inap error"
+        ],
+        "answer": "Periksa kembali seluruh input tindakan, obat, dan layanan penunjang. Jika masih tidak sesuai, hubungi Admin SIMRS/Keuangan.",
+        "source": "SIMRS-RI-005",
+        "related": [
+            "Rawat Inap",
+            "Billing",
+            "Farmasi"
+        ],
+        "tags": [
+            "rawat inap",
+            "billing",
+            "tagihan",
+            "simrs"
+        ]
+    },
+    {
+        "id": 27,
+        "category": "Rawat Inap",
+        "priority": 2,
+        "question": "Kenapa CPPT (Catatan Perkembangan Pasien Terintegrasi) tidak bisa diisi?",
+        "keywords": [
+            "cppt tidak bisa diisi",
+            "catatan perkembangan pasien error"
+        ],
+        "answer": "Pastikan akun memiliki hak akses sebagai tenaga medis terkait dan koneksi jaringan stabil saat mengisi CPPT.",
+        "source": "SIMRS-RI-006",
+        "related": [
+            "Rawat Inap",
+            "Rekam Medis",
+            "User Management"
+        ],
+        "tags": [
+            "rawat inap",
+            "cppt",
+            "rekam medis",
+            "simrs"
+        ]
+    },
+    {
+        "id": 28,
+        "category": "Rawat Inap",
+        "priority": 2,
+        "question": "Bagaimana cara mengunduh laporan sensus harian rawat inap?",
+        "keywords": [
+            "laporan sensus harian",
+            "sensus rawat inap"
+        ],
+        "answer": "Laporan sensus harian rawat inap dapat diunduh melalui menu Laporan > Sensus Harian sesuai tanggal yang dipilih.",
+        "source": "SIMRS-RI-007",
+        "related": [
+            "Rawat Inap",
+            "Laporan",
+            "FAQ"
+        ],
+        "tags": [
+            "rawat inap",
+            "sensus harian",
+            "laporan",
+            "simrs"
+        ]
+    },
+    {
+        "id": 29,
+        "category": "Farmasi",
+        "priority": 2,
+        "question": "Kenapa stok obat di sistem tidak sesuai dengan stok fisik?",
+        "keywords": [
+            "stok obat tidak sesuai",
+            "selisih stok farmasi",
+            "stok minus"
+        ],
+        "answer": "Lakukan stok opname dan pengecekan mutasi barang. Jika selisih tetap ada, laporkan ke Admin SIMRS/Kepala Instalasi Farmasi.",
+        "source": "SIMRS-FAR-001",
+        "related": [
+            "Farmasi",
+            "Stok Obat",
+            "SOP IT"
+        ],
+        "tags": [
+            "farmasi",
+            "stok obat",
+            "selisih stok",
+            "simrs"
+        ]
+    },
+    {
+        "id": 30,
+        "category": "Farmasi",
+        "priority": 2,
+        "question": "Kenapa input resep racikan gagal disimpan?",
+        "keywords": [
+            "resep tidak bisa diracik",
+            "input racikan gagal"
+        ],
+        "answer": "Pastikan komposisi racikan sesuai master data obat dan stok bahan mencukupi sebelum menyimpan resep racikan.",
+        "source": "SIMRS-FAR-002",
+        "related": [
+            "Farmasi",
+            "Resep Obat",
+            "Stok Obat"
+        ],
+        "tags": [
+            "farmasi",
+            "resep racikan",
+            "obat",
+            "simrs"
+        ]
+    },
+    {
+        "id": 31,
+        "category": "Farmasi",
+        "priority": 2,
+        "question": "Bagaimana cara mengubah harga obat yang salah di sistem?",
+        "keywords": [
+            "harga obat salah",
+            "update harga obat"
+        ],
+        "answer": "Perubahan harga obat hanya dapat dilakukan oleh Admin Farmasi/SIMRS sesuai data e-katalog atau surat pesanan terbaru.",
+        "source": "SIMRS-FAR-003",
+        "related": [
+            "Farmasi",
+            "Master Obat",
+            "SOP IT"
+        ],
+        "tags": [
+            "farmasi",
+            "harga obat",
+            "e-katalog",
+            "simrs"
+        ]
+    },
+    {
+        "id": 32,
+        "category": "Farmasi",
+        "priority": 2,
+        "question": "Kenapa item obat tidak muncul saat pencarian di sistem?",
+        "keywords": [
+            "obat tidak muncul di sistem",
+            "master obat kosong"
+        ],
+        "answer": "Pastikan item obat sudah terdaftar di Master Data Obat. Jika belum, ajukan penambahan data ke Admin SIMRS Farmasi.",
+        "source": "SIMRS-FAR-004",
+        "related": [
+            "Farmasi",
+            "Master Obat",
+            "FAQ"
+        ],
+        "tags": [
+            "farmasi",
+            "master obat",
+            "data obat",
+            "simrs"
+        ]
+    },
+    {
+        "id": 33,
+        "category": "Farmasi",
+        "priority": 2,
+        "question": "Bagaimana cara melakukan retur obat pasien?",
+        "keywords": [
+            "retur obat",
+            "pengembalian obat pasien"
+        ],
+        "answer": "Retur obat dilakukan melalui menu Retur Farmasi dengan menginput nomor resep/transaksi terkait.",
+        "source": "SIMRS-FAR-005",
+        "related": [
+            "Farmasi",
+            "Resep Obat",
+            "Billing"
+        ],
+        "tags": [
+            "farmasi",
+            "retur obat",
+            "resep",
+            "simrs"
+        ]
+    },
+    {
+        "id": 34,
+        "category": "Farmasi",
+        "priority": 2,
+        "question": "Bagaimana cara mencetak kartu stok/laporan mutasi obat?",
+        "keywords": [
+            "kartu stok obat",
+            "laporan mutasi obat"
+        ],
+        "answer": "Kartu stok dan laporan mutasi obat dapat dicetak melalui menu Laporan > Mutasi Stok Obat pada aplikasi Farmasi.",
+        "source": "SIMRS-FAR-006",
+        "related": [
+            "Farmasi",
+            "Stok Obat",
+            "Laporan"
+        ],
+        "tags": [
+            "farmasi",
+            "kartu stok",
+            "laporan",
+            "simrs"
+        ]
+    },
+    {
+        "id": 35,
+        "category": "Farmasi",
+        "priority": 2,
+        "question": "Bagaimana sistem menandai obat yang mendekati kadaluarsa?",
+        "keywords": [
+            "obat kadaluarsa",
+            "expired obat"
+        ],
+        "answer": "Obat mendekati/lewat masa kadaluarsa akan tertandai otomatis pada sistem. Segera lakukan pemisahan dan pelaporan sesuai SOP.",
+        "source": "SIMRS-FAR-007",
+        "related": [
+            "Farmasi",
+            "Stok Obat",
+            "SOP IT"
+        ],
+        "tags": [
+            "farmasi",
+            "obat kadaluarsa",
+            "expired",
+            "simrs"
+        ]
+    },
+    {
+        "id": 36,
+        "category": "Laboratorium",
+        "priority": 2,
+        "question": "Kenapa hasil pemeriksaan laboratorium tidak muncul di SIMRS?",
+        "keywords": [
+            "hasil lab tidak muncul",
+            "hasil laboratorium kosong"
+        ],
+        "answer": "Periksa apakah sampel sudah diinput dan diverifikasi oleh analis. Cek juga koneksi bridging alat laboratorium jika ada.",
+        "source": "SIMRS-LAB-001",
+        "related": [
+            "Laboratorium",
+            "LIS",
+            "Rekam Medis"
+        ],
+        "tags": [
+            "laboratorium",
+            "hasil lab",
+            "lis",
+            "simrs"
+        ]
+    },
+    {
+        "id": 37,
+        "category": "Laboratorium",
+        "priority": 1,
+        "question": "Kenapa alat laboratorium tidak terhubung ke sistem (LIS error)?",
+        "keywords": [
+            "alat lab tidak terhubung",
+            "bridging alat lab error",
+            "lis error"
+        ],
+        "answer": "Periksa kabel/koneksi jaringan alat, restart middleware LIS (Laboratory Information System), dan cek konfigurasi bridging.",
+        "source": "SIMRS-LAB-002",
+        "related": [
+            "Laboratorium",
+            "LIS",
+            "Jaringan"
+        ],
+        "tags": [
+            "laboratorium",
+            "lis",
+            "bridging alat",
+            "simrs"
+        ]
+    },
+    {
+        "id": 38,
+        "category": "Laboratorium",
+        "priority": 2,
+        "question": "Kenapa input order pemeriksaan laboratorium gagal tersimpan?",
+        "keywords": [
+            "input pemeriksaan lab gagal",
+            "order lab tidak tersimpan"
+        ],
+        "answer": "Pastikan jenis pemeriksaan telah dipilih sesuai permintaan dokter, lalu simpan ulang order pemeriksaan laboratorium.",
+        "source": "SIMRS-LAB-003",
+        "related": [
+            "Laboratorium",
+            "Rekam Medis",
+            "Rawat Jalan"
+        ],
+        "tags": [
+            "laboratorium",
+            "order lab",
+            "pemeriksaan",
+            "simrs"
+        ]
+    },
+    {
+        "id": 39,
+        "category": "Laboratorium",
+        "priority": 2,
+        "question": "Bagaimana cara mencetak hasil pemeriksaan laboratorium?",
+        "keywords": [
+            "cetak hasil lab",
+            "hasil lab tidak bisa dicetak"
+        ],
+        "answer": "Pastikan hasil pemeriksaan telah diverifikasi oleh dokter penanggung jawab lab sebelum dicetak.",
+        "source": "SIMRS-LAB-004",
+        "related": [
+            "Laboratorium",
+            "Printer",
+            "Rekam Medis"
+        ],
+        "tags": [
+            "laboratorium",
+            "cetak hasil",
+            "verifikasi",
+            "simrs"
+        ]
+    },
+    {
+        "id": 40,
+        "category": "Laboratorium",
+        "priority": 2,
+        "question": "Bagaimana cara memperbaiki nilai rujukan (range normal) hasil lab yang salah?",
+        "keywords": [
+            "nilai rujukan lab salah",
+            "range normal lab error"
+        ],
+        "answer": "Nilai rujukan/range normal hasil lab hanya dapat diubah oleh Admin SIMRS Laboratorium sesuai standar yang berlaku.",
+        "source": "SIMRS-LAB-005",
+        "related": [
+            "Laboratorium",
+            "Master Data",
+            "SOP IT"
+        ],
+        "tags": [
+            "laboratorium",
+            "nilai rujukan",
+            "range normal",
+            "simrs"
+        ]
+    },
+    {
+        "id": 41,
+        "category": "Laboratorium",
+        "priority": 2,
+        "question": "Apa yang harus dilakukan jika sampel pasien tertukar?",
+        "keywords": [
+            "sample tertukar",
+            "duplikasi sampel pasien"
+        ],
+        "answer": "Segera laporkan ke penanggung jawab laboratorium untuk verifikasi ulang dan koreksi data sebelum hasil dirilis.",
+        "source": "SIMRS-LAB-006",
+        "related": [
+            "Laboratorium",
+            "Rekam Medis",
+            "SOP IT"
+        ],
+        "tags": [
+            "laboratorium",
+            "sampel tertukar",
+            "verifikasi",
+            "simrs"
+        ]
+    },
+    {
+        "id": 42,
+        "category": "Radiologi",
+        "priority": 2,
+        "question": "Kenapa hasil pemeriksaan radiologi tidak muncul di SIMRS?",
+        "keywords": [
+            "hasil radiologi tidak muncul",
+            "hasil rontgen kosong"
+        ],
+        "answer": "Periksa status pemeriksaan pada sistem RIS (Radiology Information System) dan pastikan gambar sudah diunggah oleh radiografer.",
+        "source": "SIMRS-RAD-001",
+        "related": [
+            "Radiologi",
+            "PACS",
+            "Rekam Medis"
+        ],
+        "tags": [
+            "radiologi",
+            "hasil radiologi",
+            "ris",
+            "simrs"
+        ]
+    },
+    {
+        "id": 43,
+        "category": "Radiologi",
+        "priority": 1,
+        "question": "Kenapa gambar rontgen tidak muncul (PACS error)?",
+        "keywords": [
+            "pacs tidak terhubung",
+            "gambar rontgen tidak muncul",
+            "pacs error"
+        ],
+        "answer": "Periksa koneksi jaringan antara modalitas dan server PACS, serta pastikan layanan PACS dalam kondisi aktif.",
+        "source": "SIMRS-RAD-002",
+        "related": [
+            "Radiologi",
+            "PACS",
+            "Jaringan"
+        ],
+        "tags": [
+            "radiologi",
+            "pacs",
+            "jaringan",
+            "simrs"
+        ]
+    },
+    {
+        "id": 44,
+        "category": "Radiologi",
+        "priority": 2,
+        "question": "Kenapa input order pemeriksaan radiologi gagal tersimpan?",
+        "keywords": [
+            "input pemeriksaan radiologi gagal",
+            "order radiologi tidak tersimpan"
+        ],
+        "answer": "Pastikan jenis pemeriksaan radiologi dipilih sesuai permintaan dokter dan koneksi jaringan stabil saat menyimpan order.",
+        "source": "SIMRS-RAD-003",
+        "related": [
+            "Radiologi",
+            "Rekam Medis",
+            "Rawat Jalan"
+        ],
+        "tags": [
+            "radiologi",
+            "order radiologi",
+            "pemeriksaan",
+            "simrs"
+        ]
+    },
+    {
+        "id": 45,
+        "category": "Radiologi",
+        "priority": 2,
+        "question": "Kenapa hasil ekspertise/bacaan dokter radiologi belum muncul?",
+        "keywords": [
+            "ekspertise dokter radiologi",
+            "hasil bacaan radiologi belum ada"
+        ],
+        "answer": "Hasil ekspertise akan tampil setelah dokter spesialis radiologi menyelesaikan pembacaan pada sistem RIS.",
+        "source": "SIMRS-RAD-004",
+        "related": [
+            "Radiologi",
+            "RIS",
+            "Rekam Medis"
+        ],
+        "tags": [
+            "radiologi",
+            "ekspertise",
+            "ris",
+            "simrs"
+        ]
+    },
+    {
+        "id": 46,
+        "category": "Radiologi",
+        "priority": 2,
+        "question": "Bagaimana cara mencetak hasil/film radiologi?",
+        "keywords": [
+            "cetak hasil radiologi",
+            "print film rontgen"
+        ],
+        "answer": "Pastikan hasil sudah diverifikasi dan printer/film printer dalam kondisi siap sebelum melakukan pencetakan.",
+        "source": "SIMRS-RAD-005",
+        "related": [
+            "Radiologi",
+            "Printer",
+            "PACS"
+        ],
+        "tags": [
+            "radiologi",
+            "cetak film",
+            "printer",
+            "simrs"
+        ]
+    },
+    {
+        "id": 47,
+        "category": "Radiologi",
+        "priority": 2,
+        "question": "Kenapa log dosis radiasi pemeriksaan tidak tercatat?",
+        "keywords": [
+            "dosis radiasi tidak tercatat",
+            "log dosis radiologi"
+        ],
+        "answer": "Pencatatan dosis radiasi mengikuti data otomatis dari modalitas. Jika tidak tercatat, laporkan ke teknisi alat/Admin SIMRS.",
+        "source": "SIMRS-RAD-006",
+        "related": [
+            "Radiologi",
+            "SOP IT",
+            "Keamanan Data"
+        ],
+        "tags": [
+            "radiologi",
+            "dosis radiasi",
+            "log",
+            "simrs"
+        ]
+    },
+    {
+        "id": 48,
+        "category": "BPJS",
+        "priority": 1,
+        "question": "Kenapa bridging BPJS error dan SEP gagal terbit?",
+        "keywords": [
+            "bridging bpjs",
+            "bpjs error",
+            "sep gagal"
+        ],
+        "answer": "Periksa koneksi internet, status layanan BPJS (VClaim/Aplicares), dan pastikan data pasien telah diinput dengan benar.",
+        "source": "SIMRS-BPJS-001",
+        "related": [
+            "BPJS",
+            "SEP",
+            "Jaringan"
+        ],
+        "tags": [
+            "bpjs",
+            "bridging",
+            "sep",
+            "simrs"
+        ]
+    },
+    {
+        "id": 49,
+        "category": "BPJS",
+        "priority": 1,
+        "question": "Kenapa nomor SEP pasien tidak terbit?",
+        "keywords": [
+            "nomor sep tidak keluar",
+            "sep tidak terbit"
+        ],
+        "answer": "Pastikan data kepesertaan pasien aktif di BPJS, poli tujuan dan diagnosa awal telah diisi lengkap sebelum menerbitkan SEP.",
+        "source": "SIMRS-BPJS-002",
+        "related": [
+            "BPJS",
+            "SEP",
+            "Rawat Jalan"
+        ],
+        "tags": [
+            "bpjs",
+            "sep",
+            "kepesertaan",
+            "simrs"
+        ]
+    },
+    {
+        "id": 50,
+        "category": "BPJS",
+        "priority": 1,
+        "question": "Bagaimana cara mengecek status kepesertaan BPJS pasien?",
+        "keywords": [
+            "peserta tidak aktif",
+            "bpjs nonaktif",
+            "status kepesertaan"
+        ],
+        "answer": "Status kepesertaan dapat dicek melalui aplikasi VClaim. Jika terdapat perbedaan data, arahkan pasien ke petugas BPJS Center.",
+        "source": "SIMRS-BPJS-003",
+        "related": [
+            "BPJS",
+            "VClaim",
+            "FAQ"
+        ],
+        "tags": [
+            "bpjs",
+            "kepesertaan",
+            "vclaim",
+            "simrs"
+        ]
+    },
+    {
+        "id": 51,
+        "category": "BPJS",
+        "priority": 1,
+        "question": "Kenapa rujukan online BPJS pasien tidak muncul?",
+        "keywords": [
+            "rujukan online tidak muncul",
+            "rujukan bpjs error"
+        ],
+        "answer": "Periksa masa berlaku rujukan pada aplikasi Mobile JKN/VClaim pasien, serta koneksi bridging rujukan online.",
+        "source": "SIMRS-BPJS-004",
+        "related": [
+            "BPJS",
+            "Rujukan",
+            "Rawat Jalan"
+        ],
+        "tags": [
+            "bpjs",
+            "rujukan online",
+            "mobile jkn",
+            "simrs"
+        ]
+    },
+    {
+        "id": 52,
+        "category": "BPJS",
+        "priority": 1,
+        "question": "Kenapa klaim BPJS pasien ditolak saat verifikasi?",
+        "keywords": [
+            "klaim bpjs ditolak",
+            "verifikasi klaim gagal"
+        ],
+        "answer": "Periksa kelengkapan berkas klaim (resume medis, penunjang, SEP) sesuai ketentuan verifikasi BPJS Kesehatan.",
+        "source": "SIMRS-BPJS-005",
+        "related": [
+            "BPJS",
+            "Billing",
+            "Rekam Medis"
+        ],
+        "tags": [
+            "bpjs",
+            "klaim",
+            "verifikasi",
+            "simrs"
+        ]
+    },
+    {
+        "id": 53,
+        "category": "BPJS",
+        "priority": 1,
+        "question": "Kenapa proses grouping INA-CBG error?",
+        "keywords": [
+            "input diagnosa bpjs",
+            "grouping ina-cbg error"
+        ],
+        "answer": "Pastikan kode diagnosa dan tindakan sesuai ICD-10/ICD-9-CM diinput dengan benar agar proses grouping INA-CBG berjalan normal.",
+        "source": "SIMRS-BPJS-006",
+        "related": [
+            "BPJS",
+            "Billing",
+            "Rekam Medis"
+        ],
+        "tags": [
+            "bpjs",
+            "ina-cbg",
+            "grouping",
+            "simrs"
+        ]
+    },
+    {
+        "id": 54,
+        "category": "BPJS",
+        "priority": 1,
+        "question": "Kenapa antrian online Mobile JKN tidak tersinkron ke SIMRS?",
+        "keywords": [
+            "antrian online bpjs",
+            "mobile jkn antrian"
+        ],
+        "answer": "Antrian online melalui Mobile JKN akan tersinkron otomatis ke SIMRS. Jika tidak muncul, periksa koneksi bridging antrian.",
+        "source": "SIMRS-BPJS-007",
+        "related": [
+            "BPJS",
+            "Rawat Jalan",
+            "Jaringan"
+        ],
+        "tags": [
+            "bpjs",
+            "antrian online",
+            "mobile jkn",
+            "simrs"
+        ]
+    },
+    {
+        "id": 55,
+        "category": "BPJS",
+        "priority": 1,
+        "question": "Bagaimana proses penerbitan surat kontrol BPJS pasien?",
+        "keywords": [
+            "surat kontrol bpjs",
+            "jadwal kontrol tidak sesuai"
+        ],
+        "answer": "Surat kontrol diterbitkan oleh dokter melalui SIMRS dan otomatis tersinkron ke Mobile JKN pasien.",
+        "source": "SIMRS-BPJS-008",
+        "related": [
+            "BPJS",
+            "Rawat Jalan",
+            "FAQ"
+        ],
+        "tags": [
+            "bpjs",
+            "surat kontrol",
+            "mobile jkn",
+            "simrs"
+        ]
+    },
+    {
+        "id": 56,
+        "category": "Printer",
+        "priority": 2,
+        "question": "Kenapa printer offline dan tidak bisa mencetak?",
+        "keywords": [
+            "printer offline",
+            "printer tidak bisa mencetak"
+        ],
+        "answer": "Pastikan printer dalam keadaan menyala, kabel LAN/USB terpasang dengan benar, kemudian coba restart layanan Print Spooler.",
+        "source": "SOP-HW-001",
+        "related": [
+            "Printer",
+            "Komputer",
+            "SOP IT"
+        ],
+        "tags": [
+            "printer",
+            "offline",
+            "print spooler",
+            "hardware"
+        ]
+    },
+    {
+        "id": 57,
+        "category": "Printer",
+        "priority": 2,
+        "question": "Kenapa hasil cetak printer buram atau tidak jelas?",
+        "keywords": [
+            "hasil cetak buram",
+            "print tidak jelas",
+            "tinta habis"
+        ],
+        "answer": "Periksa level tinta/toner printer dan lakukan pembersihan head/cartridge. Ganti tinta/toner apabila sudah habis.",
+        "source": "SOP-HW-002",
+        "related": [
+            "Printer",
+            "SOP IT",
+            "FAQ"
+        ],
+        "tags": [
+            "printer",
+            "tinta",
+            "toner",
+            "hardware"
+        ]
+    },
+    {
+        "id": 58,
+        "category": "Printer",
+        "priority": 2,
+        "question": "Bagaimana cara mengatasi kertas macet (paper jam) di printer?",
+        "keywords": [
+            "kertas macet",
+            "paper jam"
+        ],
+        "answer": "Matikan printer, buka penutup printer dengan hati-hati, keluarkan kertas yang tersangkut, lalu nyalakan kembali printer.",
+        "source": "SOP-HW-003",
+        "related": [
+            "Printer",
+            "SOP IT",
+            "FAQ"
+        ],
+        "tags": [
+            "printer",
+            "paper jam",
+            "kertas macet",
+            "hardware"
+        ]
+    },
+    {
+        "id": 59,
+        "category": "Printer",
+        "priority": 2,
+        "question": "Bagaimana cara mengatasi antrian print (print queue) yang menumpuk?",
+        "keywords": [
+            "antrian print menumpuk",
+            "print queue error"
+        ],
+        "answer": "Buka Control Panel > Devices and Printers, hapus antrian cetak yang macet, lalu restart layanan Print Spooler.",
+        "source": "SOP-HW-004",
+        "related": [
+            "Printer",
+            "Komputer",
+            "SOP IT"
+        ],
+        "tags": [
+            "printer",
+            "print queue",
+            "spooler",
+            "hardware"
+        ]
+    },
+    {
+        "id": 60,
+        "category": "Printer",
+        "priority": 2,
+        "question": "Kenapa printer tidak terdeteksi di komputer?",
+        "keywords": [
+            "printer tidak terdeteksi",
+            "driver printer tidak terinstal"
+        ],
+        "answer": "Pastikan driver printer telah terinstal sesuai tipe printer dan koneksi (USB/jaringan) dalam kondisi baik.",
+        "source": "SOP-HW-005",
+        "related": [
+            "Printer",
+            "Komputer",
+            "Jaringan"
+        ],
+        "tags": [
+            "printer",
+            "driver",
+            "terdeteksi",
+            "hardware"
+        ]
+    },
+    {
+        "id": 61,
+        "category": "Printer",
+        "priority": 2,
+        "question": "Kenapa cetak label barcode di printer label error?",
+        "keywords": [
+            "cetak label barcode",
+            "printer label error"
+        ],
+        "answer": "Pastikan pengaturan ukuran label pada driver printer sesuai dengan jenis label yang digunakan sebelum mencetak.",
+        "source": "SOP-HW-006",
+        "related": [
+            "Printer",
+            "Laboratorium",
+            "SOP IT"
+        ],
+        "tags": [
+            "printer",
+            "label barcode",
+            "driver",
+            "hardware"
+        ]
+    },
+    {
+        "id": 62,
+        "category": "Jaringan",
+        "priority": 1,
+        "question": "Bagaimana cara mengatasi masalah jaringan (WiFi/LAN) yang bermasalah?",
+        "keywords": [
+            "jaringan",
+            "wifi",
+            "lan"
+        ],
+        "answer": "Periksa kabel jaringan, status koneksi, kemudian lakukan restart perangkat jaringan (modem/router/switch) bila diperlukan.",
+        "source": "SOP-NET-001",
+        "related": [
+            "Jaringan",
+            "Komputer",
+            "SOP IT"
+        ],
+        "tags": [
+            "jaringan",
+            "wifi",
+            "lan",
+            "koneksi"
+        ]
+    },
+    {
+        "id": 63,
+        "category": "Jaringan",
+        "priority": 1,
+        "question": "Kenapa koneksi internet di rumah sakit lambat?",
+        "keywords": [
+            "internet lambat",
+            "koneksi lemot"
+        ],
+        "answer": "Periksa jumlah perangkat yang terhubung, tutup aplikasi yang menggunakan bandwidth besar, dan laporkan ke IT jika berlanjut.",
+        "source": "SOP-NET-002",
+        "related": [
+            "Jaringan",
+            "SOP IT",
+            "FAQ"
+        ],
+        "tags": [
+            "jaringan",
+            "internet lambat",
+            "bandwidth",
+            "koneksi"
+        ]
+    },
+    {
+        "id": 64,
+        "category": "Jaringan",
+        "priority": 1,
+        "question": "Kenapa perangkat gagal terhubung ke WiFi?",
+        "keywords": [
+            "wifi tidak terhubung",
+            "gagal connect wifi"
+        ],
+        "answer": "Pastikan password WiFi benar, perangkat dalam jangkauan sinyal, dan lakukan forget network lalu sambungkan kembali.",
+        "source": "SOP-NET-003",
+        "related": [
+            "Jaringan",
+            "Komputer",
+            "FAQ"
+        ],
+        "tags": [
+            "jaringan",
+            "wifi",
+            "koneksi",
+            "gagal connect"
+        ]
+    },
+    {
+        "id": 65,
+        "category": "Jaringan",
+        "priority": 1,
+        "question": "Bagaimana cara mengatasi IP address yang bentrok (conflict)?",
+        "keywords": [
+            "ip address conflict",
+            "ip address bentrok"
+        ],
+        "answer": "Laporkan ke Tim IT untuk pengecekan dan pengalokasian ulang IP address perangkat agar tidak terjadi konflik jaringan.",
+        "source": "SOP-NET-004",
+        "related": [
+            "Jaringan",
+            "SOP IT",
+            "Komputer"
+        ],
+        "tags": [
+            "jaringan",
+            "ip address",
+            "conflict",
+            "koneksi"
+        ]
+    },
+    {
+        "id": 66,
+        "category": "Jaringan",
+        "priority": 1,
+        "question": "Kenapa VPN tidak bisa terkoneksi (VPN error)?",
+        "keywords": [
+            "vpn tidak bisa konek",
+            "vpn error"
+        ],
+        "answer": "Periksa kredensial VPN dan koneksi internet lokal. Hubungi Tim IT jika autentikasi VPN tetap gagal.",
+        "source": "SOP-NET-005",
+        "related": [
+            "Jaringan",
+            "Keamanan Data",
+            "SOP IT"
+        ],
+        "tags": [
+            "jaringan",
+            "vpn",
+            "koneksi",
+            "remote"
+        ]
+    },
+    {
+        "id": 67,
+        "category": "Jaringan",
+        "priority": 1,
+        "question": "Kenapa server SIMRS tidak bisa diakses (server down)?",
+        "keywords": [
+            "server tidak bisa diakses",
+            "server down"
+        ],
+        "answer": "Periksa koneksi jaringan menuju server, kemudian laporkan ke Tim IT/Admin Server untuk pengecekan status layanan.",
+        "source": "SOP-NET-006",
+        "related": [
+            "Jaringan",
+            "Server",
+            "SOP IT"
+        ],
+        "tags": [
+            "jaringan",
+            "server",
+            "server down",
+            "koneksi"
+        ]
+    },
+    {
+        "id": 68,
+        "category": "Komputer",
+        "priority": 2,
+        "question": "Kenapa komputer terasa lambat saat digunakan?",
+        "keywords": [
+            "komputer lambat",
+            "pc lambat"
+        ],
+        "answer": "Tutup aplikasi yang tidak digunakan, restart komputer, dan laporkan ke IT apabila masalah berlanjut.",
+        "source": "SOP-PC-001",
+        "related": [
+            "Komputer",
+            "SOP IT",
+            "FAQ"
+        ],
+        "tags": [
+            "komputer",
+            "pc lambat",
+            "hardware"
+        ]
+    },
+    {
+        "id": 69,
+        "category": "Komputer",
+        "priority": 2,
+        "question": "Kenapa komputer tidak menyala sama sekali (mati total)?",
+        "keywords": [
+            "komputer tidak menyala",
+            "pc mati total"
+        ],
+        "answer": "Periksa kabel power dan stop kontak. Jika lampu indikator tidak menyala sama sekali, laporkan ke Tim IT untuk pengecekan hardware.",
+        "source": "SOP-PC-002",
+        "related": [
+            "Komputer",
+            "SOP IT",
+            "Jaringan"
+        ],
+        "tags": [
+            "komputer",
+            "mati total",
+            "hardware"
+        ]
+    },
+    {
+        "id": 70,
+        "category": "Komputer",
+        "priority": 2,
+        "question": "Kenapa komputer sering blue screen atau restart sendiri?",
+        "keywords": [
+            "blue screen",
+            "komputer restart sendiri"
+        ],
+        "answer": "Catat kode error pada layar biru (jika ada), lalu segera laporkan ke Tim IT untuk pengecekan lebih lanjut.",
+        "source": "SOP-PC-003",
+        "related": [
+            "Komputer",
+            "SOP IT",
+            "FAQ"
+        ],
+        "tags": [
+            "komputer",
+            "blue screen",
+            "restart",
+            "hardware"
+        ]
+    },
+    {
+        "id": 71,
+        "category": "Komputer",
+        "priority": 2,
+        "question": "Bagaimana cara mengatasi aplikasi yang hang/not responding?",
+        "keywords": [
+            "aplikasi tidak merespon",
+            "program hang",
+            "not responding"
+        ],
+        "answer": "Tunggu beberapa saat, jika tidak merespon gunakan Task Manager untuk menutup aplikasi, lalu buka kembali aplikasi tersebut.",
+        "source": "SOP-PC-004",
+        "related": [
+            "Komputer",
+            "SOP IT",
+            "FAQ"
+        ],
+        "tags": [
+            "komputer",
+            "hang",
+            "not responding",
+            "aplikasi"
+        ]
+    },
+    {
+        "id": 72,
+        "category": "Komputer",
+        "priority": 2,
+        "question": "Kenapa barcode scanner tidak berfungsi?",
+        "keywords": [
+            "scanner",
+            "barcode scanner"
+        ],
+        "answer": "Pastikan scanner telah terhubung dengan baik dan driver perangkat telah terinstal.",
+        "source": "SOP-PC-005",
+        "related": [
+            "Komputer",
+            "Printer",
+            "SOP IT"
+        ],
+        "tags": [
+            "komputer",
+            "scanner",
+            "barcode",
+            "hardware"
+        ]
+    },
+    {
+        "id": 73,
+        "category": "Komputer",
+        "priority": 2,
+        "question": "Kenapa mouse atau keyboard tidak berfungsi?",
+        "keywords": [
+            "mouse keyboard tidak berfungsi",
+            "input device error"
+        ],
+        "answer": "Periksa koneksi kabel/USB atau baterai perangkat wireless, coba sambungkan ke port USB lain.",
+        "source": "SOP-PC-006",
+        "related": [
+            "Komputer",
+            "SOP IT",
+            "FAQ"
+        ],
+        "tags": [
+            "komputer",
+            "mouse",
+            "keyboard",
+            "hardware"
+        ]
+    },
+    {
+        "id": 74,
+        "category": "Komputer",
+        "priority": 2,
+        "question": "Kenapa update Windows di komputer gagal atau error?",
+        "keywords": [
+            "update windows gagal",
+            "windows update error"
+        ],
+        "answer": "Update sistem operasi pada komputer instansi dikelola oleh Tim IT. Jangan melakukan update mandiri tanpa koordinasi.",
+        "source": "SOP-PC-007",
+        "related": [
+            "Komputer",
+            "SOP IT",
+            "Keamanan Data"
+        ],
+        "tags": [
+            "komputer",
+            "windows update",
+            "sistem operasi",
+            "hardware"
+        ]
+    },
+    {
+        "id": 75,
+        "category": "SOP IT",
+        "priority": 3,
+        "question": "Siapa yang bertanggung jawab melakukan backup database SIMRS?",
+        "keywords": [
+            "backup database"
+        ],
+        "answer": "Backup database hanya dilakukan oleh Administrator Database sesuai jadwal yang telah ditentukan.",
+        "source": "SOP-IT-201",
+        "related": [
+            "SOP IT",
+            "Keamanan Data",
+            "Jaringan"
+        ],
+        "tags": [
+            "sop it",
+            "backup",
+            "database",
+            "keamanan"
+        ]
+    },
+    {
+        "id": 76,
+        "category": "SOP IT",
+        "priority": 3,
+        "question": "Bagaimana prosedur melaporkan gangguan IT di rumah sakit?",
+        "keywords": [
+            "prosedur pelaporan gangguan",
+            "cara lapor kerusakan it"
+        ],
+        "answer": "Gangguan IT dilaporkan melalui helpdesk/tiket IT dengan mencantumkan unit, jenis masalah, dan waktu kejadian.",
+        "source": "SOP-IT-202",
+        "related": [
+            "SOP IT",
+            "FAQ",
+            "Helpdesk"
+        ],
+        "tags": [
+            "sop it",
+            "pelaporan gangguan",
+            "helpdesk"
+        ]
+    },
+    {
+        "id": 77,
+        "category": "SOP IT",
+        "priority": 3,
+        "question": "Bagaimana cara mengajukan instalasi aplikasi/software baru?",
+        "keywords": [
+            "instalasi aplikasi baru",
+            "request software"
+        ],
+        "answer": "Permintaan instalasi aplikasi/software baru harus melalui persetujuan Tim IT sesuai kebijakan keamanan sistem informasi.",
+        "source": "SOP-IT-203",
+        "related": [
+            "SOP IT",
+            "Komputer",
+            "Keamanan Data"
+        ],
+        "tags": [
+            "sop it",
+            "instalasi software",
+            "aplikasi"
+        ]
+    },
+    {
+        "id": 78,
+        "category": "SOP IT",
+        "priority": 3,
+        "question": "Bagaimana kebijakan kerahasiaan data pasien di rumah sakit?",
+        "keywords": [
+            "kebijakan keamanan data",
+            "data pasien rahasia",
+            "kerahasiaan rekam medis"
+        ],
+        "answer": "Seluruh data pasien bersifat rahasia dan hanya dapat diakses oleh pihak berwenang sesuai kebijakan keamanan informasi rumah sakit.",
+        "source": "SOP-IT-204",
+        "related": [
+            "SOP IT",
+            "Keamanan Data",
+            "Rekam Medis"
+        ],
+        "tags": [
+            "sop it",
+            "kerahasiaan data",
+            "keamanan",
+            "rekam medis"
+        ]
+    },
+    {
+        "id": 79,
+        "category": "SOP IT",
+        "priority": 3,
+        "question": "Bagaimana prosedur pengajuan penggantian perangkat IT yang rusak?",
+        "keywords": [
+            "penggantian perangkat rusak",
+            "klaim barang it"
+        ],
+        "answer": "Penggantian perangkat IT yang rusak diajukan melalui unit terkait ke Tim IT disertai laporan kerusakan.",
+        "source": "SOP-IT-205",
+        "related": [
+            "SOP IT",
+            "Komputer",
+            "Printer"
+        ],
+        "tags": [
+            "sop it",
+            "penggantian perangkat",
+            "kerusakan"
+        ]
+    },
+    {
+        "id": 80,
+        "category": "SOP IT",
+        "priority": 3,
+        "question": "Kapan jadwal pemeliharaan (maintenance) sistem SIMRS dilakukan?",
+        "keywords": [
+            "maintenance sistem",
+            "jadwal pemeliharaan sistem"
+        ],
+        "answer": "Pemeliharaan sistem dilakukan secara berkala sesuai jadwal yang diinformasikan oleh Tim IT kepada seluruh unit.",
+        "source": "SOP-IT-206",
+        "related": [
+            "SOP IT",
+            "FAQ",
+            "Jaringan"
+        ],
+        "tags": [
+            "sop it",
+            "maintenance",
+            "pemeliharaan sistem"
+        ]
+    },
+    {
+        "id": 81,
+        "category": "SOP IT",
+        "priority": 3,
+        "question": "Siapa saja yang boleh mengakses ruang server (server room)?",
+        "keywords": [
+            "akses server ruangan",
+            "server room"
+        ],
+        "answer": "Akses ke ruang server hanya diperbolehkan bagi personel Tim IT yang berwenang sesuai SOP keamanan fasilitas.",
+        "source": "SOP-IT-207",
+        "related": [
+            "SOP IT",
+            "Keamanan Data",
+            "Jaringan"
+        ],
+        "tags": [
+            "sop it",
+            "server room",
+            "keamanan fasilitas"
+        ]
+    },
+    {
+        "id": 82,
+        "category": "FAQ",
+        "priority": 3,
+        "question": "Bagaimana cara menghubungi Tim IT rumah sakit?",
+        "keywords": [
+            "hubungi it",
+            "kontak it"
+        ],
+        "answer": "Silakan menghubungi Tim IT Rumah Sakit melalui helpdesk atau nomor internal yang berlaku.",
+        "source": "FAQ-001",
+        "related": [
+            "FAQ",
+            "Helpdesk",
+            "SOP IT"
+        ],
+        "tags": [
+            "faq",
+            "kontak it",
+            "helpdesk"
+        ]
+    },
+    {
+        "id": 83,
+        "category": "FAQ",
+        "priority": 3,
+        "question": "Jam berapa layanan helpdesk IT beroperasi?",
+        "keywords": [
+            "jam operasional it",
+            "helpdesk buka jam berapa"
+        ],
+        "answer": "Layanan helpdesk IT beroperasi pada jam kerja rumah sakit, dengan layanan darurat tertentu di luar jam kerja sesuai kebijakan.",
+        "source": "FAQ-002",
+        "related": [
+            "FAQ",
+            "Helpdesk",
+            "SOP IT"
+        ],
+        "tags": [
+            "faq",
+            "jam operasional",
+            "helpdesk"
+        ]
+    },
+    {
+        "id": 84,
+        "category": "FAQ",
+        "priority": 3,
+        "question": "Bagaimana cara membuat tiket laporan gangguan IT?",
+        "keywords": [
+            "cara membuat tiket",
+            "lapor masalah it"
+        ],
+        "answer": "Tiket gangguan dapat dibuat melalui aplikasi helpdesk internal atau menghubungi Tim IT secara langsung.",
+        "source": "FAQ-003",
+        "related": [
+            "FAQ",
+            "Helpdesk",
+            "SOP IT"
+        ],
+        "tags": [
+            "faq",
+            "tiket",
+            "helpdesk"
+        ]
+    },
+    {
+        "id": 85,
+        "category": "FAQ",
+        "priority": 3,
+        "question": "Siapa dan bagaimana cara menghubungi Admin SIMRS?",
+        "keywords": [
+            "siapa admin simrs",
+            "kontak admin simrs"
+        ],
+        "answer": "Admin SIMRS dapat dihubungi melalui unit IT Rumah Sakit sesuai struktur organisasi yang berlaku.",
+        "source": "FAQ-004",
+        "related": [
+            "FAQ",
+            "Login",
+            "User Management"
+        ],
+        "tags": [
+            "faq",
+            "admin simrs",
+            "kontak"
+        ]
+    },
+    {
+        "id": 86,
+        "category": "FAQ",
+        "priority": 3,
+        "question": "Apakah SIMRS bisa diakses dari luar rumah sakit (jarak jauh)?",
+        "keywords": [
+            "simrs bisa diakses dari rumah",
+            "akses simrs jarak jauh"
+        ],
+        "answer": "Akses SIMRS dari luar jaringan rumah sakit umumnya dibatasi demi keamanan data, kecuali menggunakan VPN resmi yang disetujui.",
+        "source": "FAQ-005",
+        "related": [
+            "FAQ",
+            "Jaringan",
+            "Keamanan Data"
+        ],
+        "tags": [
+            "faq",
+            "akses jarak jauh",
+            "vpn"
+        ]
+    },
+    {
+        "id": 87,
+        "category": "FAQ",
+        "priority": 3,
+        "question": "Bagaimana proses update/pembaruan aplikasi SIMRS?",
+        "keywords": [
+            "update aplikasi simrs",
+            "versi simrs terbaru"
+        ],
+        "answer": "Pembaruan aplikasi SIMRS dilakukan secara terpusat oleh Tim IT dan akan diinformasikan kepada seluruh unit pengguna.",
+        "source": "FAQ-006",
+        "related": [
+            "FAQ",
+            "SOP IT",
+            "Login"
+        ],
+        "tags": [
+            "faq",
+            "update aplikasi",
+            "versi simrs"
+        ]
+    },
+	{
+		 "id": 88,
+        "category":"Printer",
+		"priority":2,
+		"keywords":[
+		"lampu printer berkedip",
+		"printer blink",
+		"lampu printer blink",
+		"lampu indikator berkedip"
+	],
+		"answer":"Periksa indikator pada printer. Lampu berkedip dapat menandakan paper jam, tinta habis, cover belum tertutup rapat, atau error lainnya. Lihat pola kedipan sesuai manual printer atau hubungi Tim IT.",
+		"source": "SOP-HW-007",
+		"related": [
+			"Printer",
+            "Laboratorium",
+            "SOP IT"
+        ],
+        "tags": [
+            "printer",
+            "tinta habis",
+            "cover terbuka",
+			"error hardware",
+            "paper jam"  
+        ]
+    }
+]
