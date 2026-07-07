@@ -29,10 +29,8 @@ smart-hospital-ai/
 ```
 
 ## Menjalankan
-
+Buka folder Examples/chatbot_smart_hospital.ipynb di collab, kemudian ikuti langkah di bawah ini
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
 
 ## Menjalankan Project di Google Colab
 1. Upload project ke Google Drive.
@@ -41,8 +39,8 @@ streamlit run app.py
 Notebook akan melakukan:
 - Mount Google Drive
 - Clone reporitory
-- Install requirements.txt
+- Install requirements.txt :pip install -r requirements.txt
 - Pastikan memiliki key GROQ dan NROK
-- Menjalankan Streamlit
+- Menjalankan Streamlit :streamlit run app.py
 - Membuat public URL menggunakan ngrok
 ```
