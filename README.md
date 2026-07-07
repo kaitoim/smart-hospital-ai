@@ -1,6 +1,7 @@
 # Smart Hospital AI Assistant
 
-Smart Hospital AI Assistant adalah chatbot berbasis AI untuk membantu pengguna SIMRS.
+Smart Hospital AI Assistant adalah chatbot berbasis AI untuk membantu pengguna SIMRS menggunakan. 
+Menggunakan model LLaMA v.1
 
 ## Fitur
 
@@ -13,6 +14,7 @@ Smart Hospital AI Assistant adalah chatbot berbasis AI untuk membantu pengguna S
 - Support Google Colab + Ngrok
 
 ## Struktur Project
+```bash
 smart-hospital-ai/
 │
 ├── app.py
@@ -24,6 +26,7 @@ smart-hospital-ai/
 ├── examples/
 │     └── chatbot_smart_hospital.ipynb
 └── .gitignore
+bash'''
 
 ## Menjalankan
 
@@ -37,6 +40,8 @@ streamlit run app.py
 3. Jalankan seluruh sel secara berurutan.
 Notebook akan melakukan:
 - Mount Google Drive
-- Install dependencies
+- Clone reporitory
+- Install requirements.txt
+- Pastikan memiliki key GROQ dan NROK
 - Menjalankan Streamlit
 - Membuat public URL menggunakan ngrok
