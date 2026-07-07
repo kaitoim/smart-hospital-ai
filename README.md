@@ -26,7 +26,7 @@ smart-hospital-ai/
 ├── examples/
 │     └── chatbot_smart_hospital.ipynb
 └── .gitignore
-bash'''
+```
 
 ## Menjalankan
 
@@ -45,3 +45,4 @@ Notebook akan melakukan:
 - Pastikan memiliki key GROQ dan NROK
 - Menjalankan Streamlit
 - Membuat public URL menggunakan ngrok
+```
