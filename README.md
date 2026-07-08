@@ -1,6 +1,6 @@
 # Smart Hospital AI Assistant
 
-Smart Hospital AI Assistant adalah chatbot berbasis AI untuk membantu pengguna SIMRS pengguna SIMRS dalam menjawab pertanyaan, melakukan troubleshooting awal perangkat dan aplikasi, serta menyusun laporan gangguan IT secara otomatis. Dengan memanfaatkan Semantic Search, Knowledge Base, dan Large Language Model (LLM), chatbot mampu memberikan respons yang lebih relevan, cepat, dan mudah dipahami sehingga meningkatkan efisiensi layanan dukungan IT di rumah sakit.
+Smart Hospital AI Assistant adalah chatbot berbasis AI untuk membantu pengguna SIMRS dalam menjawab pertanyaan, melakukan troubleshooting awal perangkat dan aplikasi, serta menyusun laporan gangguan IT secara otomatis. Dengan memanfaatkan Semantic Search, Knowledge Base, dan Large Language Model (LLM), chatbot mampu memberikan respons yang lebih relevan, cepat, dan mudah dipahami sehingga meningkatkan efisiensi layanan dukungan IT di rumah sakit.
 
 ## Fitur
 
